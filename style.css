@@ -126,7 +126,7 @@ h1{
     border: 3px solid rgb(41, 41, 41);
     transition: 0.5s;
     box-shadow: #090909;
-    background: aqua;
+    background: rgb(220,225,225);
 }
 @media(max-width:700px){
     .coloumn{
