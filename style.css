@@ -175,12 +175,12 @@ h1{
    .layer{
     display: flex;
     position: absolute;
-    top: 181%;
+    top: 188%;
     transition: 0.5s;
    }
-   .layer:hover{
+/*    .layer:hover{
     color: rgb(185, 40, 40);
-   }
+   } */
    /* -----------------------------------------------facilities--------------------------------- */
 
    .facilities{
