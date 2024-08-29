@@ -123,7 +123,7 @@ h1{
     background: #fff3f3;
 }
 .row:hover{
-    border: 3px solid rgb(198, 10, 10);
+    border: 3px solid rgb(41, 41, 41);
     transition: 0.5s;
     box-shadow: #090909;
     background: aqua;
