@@ -176,7 +176,6 @@ h1{
     display: flex;
     position: absolute;
     top: 140%;
-    transition: 0.5s;
    }
    
    /* -----------------------------------------------facilities--------------------------------- */
