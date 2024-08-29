@@ -175,7 +175,7 @@ h1{
    .layer{
     display: flex;
     position: absolute;
-    top: 180%;
+    top: 140%;
     transition: 0.5s;
    }
    
