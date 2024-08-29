@@ -175,7 +175,7 @@ h1{
    .layer{
     display: flex;
     position: absolute;
-    top: 177%;
+    top: 181%;
     transition: 0.5s;
    }
    .layer:hover{
